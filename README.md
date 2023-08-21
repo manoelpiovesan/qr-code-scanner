@@ -14,4 +14,4 @@ O QRVault é um aplicativo desenvolvido em Flutter que permite a você escanear 
 1. Clone este repositório para o seu ambiente local usando o seguinte comando:
 
 ```bash
-git clone https://github.com/manoelpiovesan/qr-code-scanner.git
+git clone https://github.com/manoelpiovesan/qr-vault.git
